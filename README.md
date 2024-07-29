@@ -2,7 +2,7 @@
 Overview
 This analysis involves clustering cryptocurrencies using both the original scaled data and PCA-transformed data. The goal is to find the optimal number of clusters (k) for K-Means clustering and compare the results between the original and PCA-reduced data.
 
-### Note: As the code uses hvplot, the graphs will not appear in the code. Please download and run to view the plots.
+### Note: As the code uses hvplot, the graphs will not appear in Github. Please download and run to view the plots.
 
 ### Steps and Results
 1. Finding the Best Value for 𝑘 using the Original Scaled DataFrame
